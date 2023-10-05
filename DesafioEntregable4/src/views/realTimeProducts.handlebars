@@ -1,0 +1,31 @@
+<div id="container_real_time_products">
+
+    <h1 class="logo_title">ELECTROKEVIN</h1>
+
+    <h4 class="title_ingresar_un_producto">Ingresar un producto: </h4>
+
+    <form id="formulario" class="formulario-productos">
+        <input type="text" placeholder="Nombre" id="title" required />
+        <input type="text" placeholder="Descripción" id="description" required />
+        <input type="number" placeholder="Codigo" id="code" required />
+        <input type="number" placeholder="Precio" id="price" required />
+        <input type="text" placeholder="Disponibilidad" id="status" required />
+        <input type="number" placeholder="Stock" id="stock" required />
+        <input type="text" placeholder="Categoria" id="category" required />
+        <input type="text" placeholder="link de imagen" id="thumbnails" required />
+        <button class="buton-agregar-producto" type="submit" style="cursor: pointer">Agregar Producto</button>
+    </form>
+
+    <div>
+        <div>
+            <h2 class="title_listado_de_productos">Listado de productos:</h2>
+            <div id="textbox">
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/home.js"></script>

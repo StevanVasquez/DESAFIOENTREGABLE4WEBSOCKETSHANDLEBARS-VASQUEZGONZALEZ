@@ -1,0 +1,20 @@
+<div id="container_list_productos_agregados">
+    <h1 class="title_lista_todos_los_productos">Lista Productos</h1>
+    <ul id="container_productos_detalles">
+        {{#each productos}}
+        <li id="productos_detalles">
+            <p class="product_detail">Id: {{this.id}}</p>
+            <p class="product_detail">Nombre: {{this.title}}</p>
+            <p class="product_detail">Descripcion: {{this.description}}</p>
+            <p class="product_detail">Codigo: {{this.code}}</p>
+            <p class="product_detail">Precio: {{this.price}}</p>
+            <p class="product_detail">Disponibilidad: {{this.status}}</p>
+            <p class="product_detail">Stock: {{this.stock}}</p>
+            <p class="product_detail">Categoria: {{this.category}}</p>
+            <p class="product_detail">Imagen: {{this.thumbnails}}</p>
+        </li>
+        {{/each}}
+    </ul>
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/home.js"></script>

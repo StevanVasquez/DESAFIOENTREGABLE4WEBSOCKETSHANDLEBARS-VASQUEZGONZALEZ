@@ -1,0 +1,79 @@
+[
+	{
+		"title": "Celular Samsung S23+",
+		"description": "5G 8Gb 512Gb Negro",
+		"code": 334466,
+		"price": 5600000,
+		"status": true,
+		"stock": 44,
+		"category": "celulares",
+		"thumbnails": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samsung.com",
+		"id": "qldm"
+	},
+	{
+		"title": "Nevecon LG LS66SXSC",
+		"description": "InstaView Craft Ice 637 Litros Gris",
+		"code": 712256,
+		"price": 8583000,
+		"status": true,
+		"stock": 38,
+		"category": "neveras",
+		"thumbnails": "https://www.google.com/www.hogarymoda.com.co%2Fproduct%2Fnevecon-lg-ls66sxsc",
+		"id": "1wSn"
+	},
+	{
+		"title": "Audifonos Apple",
+		"description": "AirPods Inalambricos Blanco",
+		"code": 211178,
+		"price": 749000,
+		"status": true,
+		"stock": 24,
+		"category": "audifonos",
+		"thumbnails": "https://www.google.com/www.apple.com%2Fla%2Fnewsroom2%airpods",
+		"id": "tbMH"
+	},
+	{
+		"title": "Parlante JBL PARTY BOX 310",
+		"description": "Inalambrico 240watts",
+		"code": 345644,
+		"price": 3100000,
+		"status": true,
+		"stock": 15,
+		"category": "parlantes",
+		"thumbnails": "https://www.google.com/www.jbl.com.co%2Fbocina%2FPARTYBOX-110",
+		"id": "zccI"
+	},
+	{
+		"title": "Lavadora Samsung WA19T6260BY Gris",
+		"description": "Carga Superior Motor Digital Inverter",
+		"code": 234599,
+		"price": 2300000,
+		"status": true,
+		"stock": 23,
+		"category": "lavadoras",
+		"thumbnails": "https://www.samsung.com%2Fco%2Fwashers-and-dryers%2Fwashing-machines%2Ftop-wa17t6260bv",
+		"id": "v9CP"
+	},
+	{
+		"title": "Televisor LG 55Pulgadas UR8750PSA",
+		"description": "LED 4K-UHD 2023 Smart Tv",
+		"code": 778899,
+		"price": 2800000,
+		"status": true,
+		"stock": 45,
+		"category": "televisores",
+		"thumbnails": "https://www.google.com/www.exito.com%2Ftelevisor-lg-55-pulgadas-led-uhd-4k-smart-tv-55ur8750",
+		"id": "5vWs"
+	},
+	{
+		"title": "Computador portatil HP 15 Pulgadas Ef2524la",
+		"description": "Procesador AMD R5 Ram 8GB DiscoSSD 512 GB",
+		"code": 2233470,
+		"price": 5000000,
+		"status": true,
+		"stock": 38,
+		"category": "computadores",
+		"thumbnails": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ktronix.com%2Fcomputador-portatil-hp",
+		"id": "g3q2"
+	}
+]
